@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"errors"
 	"fmt"
-	"goparser/lexer"
-	"goparser/parser"
+	"github.com/JakubS26/goparser/lexer"
+	"github.com/JakubS26/goparser/parser"
 	"os"
 	"strconv"
 )
