@@ -3,7 +3,7 @@ package parser
 import (
 	"errors"
 	"fmt"
-	"goparser/lexer"
+	"github.com/JakubS26/goparser/lexer"
 	"strings"
 	"unicode"
 )
