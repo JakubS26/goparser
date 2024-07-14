@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"goparser/lexer"
+	"github.com/JakubS26/goparser/lexer"
 	"testing"
 )
 
